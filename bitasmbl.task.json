@@ -1,0 +1,36 @@
+{
+  "branch": "bitasmbl/evaluations/6ba0afeb-8fee-4733-a1e3-8c0dffc4c74b-24/11/2026-939-2/3",
+  "requirementId": 939,
+  "projectApplicationId": 78,
+  "projectApplicationLinkedRepoId": 65,
+  "files": [
+    {
+      "file": "frontend/src/api/someApi.ts",
+      "fileActivity": {
+        "editEvents": 2,
+        "activeDurationSec": 88,
+        "idleBreaks": 0,
+        "editIntervals": {
+          "averageSec": 44,
+          "medianSec": 88,
+          "rapidEdits": 0,
+          "pauses": 0,
+          "longPauses": 0
+        },
+        "diffStats": {
+          "linesAdded": 5,
+          "linesDeleted": 0
+        },
+        "sourceHints": {
+          "possiblePaste": false,
+          "suspiciousJump": false
+        }
+      },
+      "fileData": {
+        "blobSha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "mode": "100644",
+        "type": "blob"
+      }
+    }
+  ]
+}
